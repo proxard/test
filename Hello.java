@@ -1,6 +1,7 @@
 public class Hello {
     public static void main(String[] in){
         //I hate claire!   :c big sad
+        //finde ich nicht nett
         System.out.println("Mooooooooin");
         System.out.println("Tschuess Carsten");  //Typofix
         //sehr schoen. Claire war nicht hier!!!!!111!!!!111!!elf
